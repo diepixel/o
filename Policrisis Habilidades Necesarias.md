@@ -1,13 +1,8 @@
-·
+
 
 # El Protocolo de Mayordomía: Un Marco para Acelerar la Consciencia Humana en la Era de la Policrisis
-
   
-  
-
 ## Introducción: Una Analogía para Nuestro Tiempo
-
-  
 
 En el simulador de colonias de ciencia ficción RimWorld, la expansión Ideology introduce un artefacto llamado "supercargador neuronal" (neural supercharger). Este dispositivo, cuando se utiliza, proporciona a un colono un impulso temporal pero significativo: un aumento del 25% en el factor de aprendizaje global y un 10% en la consciencia. Esta aceleración, sin embargo, tiene un coste: un consumo considerable de energía y un aumento de las necesidades alimentarias.1 Esta mecánica de juego sirve como una metáfora precisa para las tecnologías de mejora humana del mundo real: ofrecen la promesa de un aprendizaje acelerado, pero conllevan costes de recursos y dependencias sistémicas.
 
