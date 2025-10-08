@@ -1,4 +1,4 @@
-
+·
 
 # El Protocolo de Mayordomía: Un Marco para Acelerar la Consciencia Humana en la Era de la Policrisis
 
