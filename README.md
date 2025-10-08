@@ -1,4 +1,9 @@
-# o
-Desde hoy inicio una nueva aventura donde aunque sigo asumiendome como un ser individual por todos los aspectos que me siguen manteniendo separados de lo que no es mi cuerpo, mi mente o mi espiritu directo, comprendo que estos estan compuestos de materia universal y que no soy independiente por lo que creo muy conveniente empezar a manejar en este espacio todo lo que quiero hacer publico de manera sana y evitando aquellos aspectos no deseados de hacerlo.
+# Proposito
+El proposito de este espacio es publicar todas las investigaciones que valla haciendo para que yo y personas interesadas puedan acceder a ellas en cualquier momento.
 
-Mientras defino estos protocolos ire publicando en este lugar todas las investigaciones que valla haciendo
+El segundo proposito es ir entendiento como puedo contruir un protocolo de manifestacion publica que permita a las personas maneras mas eficientes de construir conocimiento.
+
+Vamos a ir lentamente contruyendo este espacio pero importate por ahora ir agregando las principales investigaciones e ir construyendo un sistema de organizacion alfabetica por medio de los nombres de los archivos para que sean muy faciles de encontar desde listas alfabeticas
+
+hola mundo!
+
