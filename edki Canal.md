@@ -188,3 +188,54 @@ El creador del canal participará activamente en foros y comunidades en línea d
 #### 4.3.3. Optimización de SEO para Términos de Búsqueda Relacionados con la Vida y la Existencia
 
 El canal implementará una estrategia de optimización de motores de búsqueda (SEO) para asegurar que los vídeos sean fácilmente encontrables por personas que buscan respuestas a preguntas existenciales. Se investigarán y utilizarán palabras clave relevantes en los títulos, descripciones y etiquetas de los vídeos, centrándose en términos que combinen filosofía con la vida cotidiana (por ejemplo, "filosofía de la ansiedad", "cómo encontrar sentido a la vida", "existencialismo cotidiano"). Esta estrategia ayudará a atraer a una audiencia orgánica que está activamente buscando el tipo de contenido que ofrece el canal.
+
+
+# Extra
+Imagínala así: una **Google-Sheets viva** que en 30 s te dice cuánto “sabor real” tiene cualquier contenido sin caer en paperos ni ecuaciones.  
+Dos caras: una **superficie limpia** (tres celdas amarillas y un semáforo) y un **panel oculto** con la carnicería de fórmulas.  
+Si quieres solo el número, lo obtienes; si quieres discutirlo con alguien, la hoja te da los bullets para defenderlo.
+
+---
+
+### 1 Vista rápida (lo que ves apenas abrís)
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| **1** | 🎯 CONTENIDO A MEDIR | `Car Mechanic Simulator 2021` | | | |
+| **2** | 📊 TRANSFER MEDIDO (%) | `18` | ▼ slider 0-100 | | |
+| **3** | 🎮 FIDELITY SCORE (0-100) | `42` | ▼ slider 0-100 | | |
+| **4** | 🧠 NEURAL SIMILARITY (0-1) | `0,38` | ▼ slider 0-1 | | |
+| **5** | | | | | |
+| **6** | **CONEXIÓN REAL** | `=REDONDEAR(0,6*B2+0,25*B3+0,15*B4*100)` | ▶ | **25 %** | |
+| **7** | | | | | |
+| **8** | 🚦 SEMÁFORO | 🟡 `Moderado` | | | |
+| **9** | 🗣️ FRASE LISTA | “El contenido aporta 1/4 de la experiencia real; complementar con práctica física.” | | | |
+
+---
+
+### 2 Detalle oculto (desplegable ➕)
+
+| | A | B |
+|---|---|---|
+| **12** | 🔍 Fuentes default | Enlace rápido a meta-análisis + CSV de expertos |
+| **13** | 🧪 ¿Cómo medir Transfer? | Mini-protocolo: pre-test / post-test / grupo control |
+| **14** | 📈 ¿Córo sacar Fidelity? | Check-list Hays (9 ítems con peso) |
+| **15** | 🧠 ¿Córo sacar Neural? | Plantilla de 8 electrodos + script Python (Colab) |
+| **16** | 🧮 Pesos ajustables | 0,6 / 0,25 / 0,15 → celdas verdes para tweak manual |
+| **17** | 🎯 Benchmarks públicos | Filas con valores ya cargados: TikTok “cambio de bujía”, VR-Oculus, Taller real, etc. |
+
+---
+
+### 3 Gráfica auto-generada
+
+- Gauge-chart (Google Charts embedded) que mueve la aguja según el % de B6.  
+- Zonas roja <20, ambar 20-40, verde >40.
+
+---
+
+### 4 Extras “filosofía callejera”
+
+- **Chat interno**: celda comentarios con AppScript → envía dudas al canal de Discord sin salir de Sheets.  
+- **Multi-idioma**: desplegable ES / EN / PT; cambia labels y la frase lista.  
+- **Export clip-board**: botón que copia:  
+  “Según nuestro *benchmark de conexión real*, `Car Mechanic Simulator 2021` conserva un 25 % de experiencia mecánica genuina; el resto se activa solo con grasa bajo las uñas.”
