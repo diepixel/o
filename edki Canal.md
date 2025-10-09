@@ -1,4 +1,6 @@
 
+[Web](https://www.kimi.com/preview/199c9855-fb12-852c-8000-0540e50de7ae)
+[Conversacion](https://www.kimi.com/share/d3jtmmv6rtp6r5q8i370)
 
 # Canal de Filosofía Experiencial: Un Plan de Contenidos
 
