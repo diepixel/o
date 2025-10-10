@@ -1,7 +1,7 @@
 **  
 [[10-10]]
 
-[NotebookLM edki Realidad, Lenguaje y Conocimiento en IA](https://notebooklm.google.com/notebook/a1acad6a-85d5-43c3-a3e1-18b06f0a0daf)
+[NotebookLM edki 🌀 Realidad, Lenguaje y Conocimiento en IA](https://notebooklm.google.com/notebook/a1acad6a-85d5-43c3-a3e1-18b06f0a0daf)
 
 # La Estructura del Conocimiento: Una Indagación sobre las Resonancias entre Lenguaje, Computación y Ley Física
 
