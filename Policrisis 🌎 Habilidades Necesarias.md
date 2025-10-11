@@ -1,4 +1,4 @@
-
+[NotebookLM 🌎 Mayordomia Planetaria y Policrisis](https://notebooklm.google.com/notebook/92ac1d7c-221f-495d-846f-e9d91646b55b)
 
 # El Protocolo de Mayordomía: Un Marco para Acelerar la Consciencia Humana en la Era de la Policrisis
   

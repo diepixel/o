@@ -1,4 +1,4 @@
-
+[NotebookLM 🌎 Mayordomia Planetaria y Policrisis](https://notebooklm.google.com/notebook/92ac1d7c-221f-495d-846f-e9d91646b55b)
 
 # Navegando la Policrisis Global: Un Análisis de Riesgos Interconectados y el Imperativo de la Resiliencia Sistémica
 
