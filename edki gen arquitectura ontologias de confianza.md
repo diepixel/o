@@ -1,14 +1,6 @@
-**  
-
 # El Léxico de la Confianza: Una Guía Estratégica para la Comunicación Ética con las Generaciones Z y Alfa (Horizonte 2025-2030)
 
-  
-  
-
 ## I. Resumen Ejecutivo: Principios para un Diálogo Duradero
-
-  
-  
 
 ### Síntesis Estratégica
 
@@ -163,12 +155,7 @@ Para establecer una comunicación auténtica, se deben internalizar tres compone
     
 3. Transparencia: La autenticidad exige una transparencia radical. Esto significa ser honesto sobre los procesos, las motivaciones y las afiliaciones. En el ámbito comercial, implica la divulgación clara de patrocinios y colaboraciones pagadas.8 En el contexto de una guía ética, significa ser abierto sobre quién la financia, quiénes son sus autores, qué sesgos pueden tener y cómo se toman las decisiones. La Gen Z valora la transparencia en las prácticas empresariales y las comunicaciones, y espera lo mismo de cualquier fuente de información.3
     
-
-  
-
 ### El Rechazo al Activismo Performativo
-
-  
 
 La demanda de autenticidad se extiende de forma crítica al ámbito de los valores. No es suficiente que una organización diga que apoya una causa; debe demostrarlo con acciones consistentes y significativas. La Generación Z tiene una habilidad innata para detectar el "activismo performativo" —el apoyo superficial a causas sociales (como cambiar un logo durante el Mes del Orgullo) sin un compromiso real y sostenido—. Cuando detectan esta hipocresía, no solo desconfían, sino que a menudo la denuncian públicamente, utilizando las mismas plataformas sociales para exigir responsabilidades.3
 
