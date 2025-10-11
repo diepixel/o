@@ -1,4 +1,4 @@
-**  
+  
 
 # El Arte de Vivir: Manual de Usuario v1.0 (Beta Abierta)
 
