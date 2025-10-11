@@ -1,4 +1,4 @@
-**  
+[NotebookLM 👨‍🎓 ECCI Adaptación Metodologica](https://notebooklm.google.com/notebook/b990c94e-f43e-4129-80d8-99d23fabd1ad)
 
 # Aprender para la Complejidad: Un Manifiesto para la Transformación Pedagógica en la Universidad ECCI
 
