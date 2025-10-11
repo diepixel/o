@@ -7,4 +7,4 @@ Vamos a ir lentamente contruyendo este espacio pero importate por ahora ir agreg
 
 Hay tambien un trabajo filosofico profundo que debo desarrollar aca para identificar esta separacion entre el indivduo y la totalidad, porque el individuo no tiene mas que usar la totalidad en toda su interaccion existencial y actualmente la IA hace evidente como a pesar de que la singularidad de cada ser puede dirigir el resultado de cualquier generacion, esta esta nutrida por todo el conocimiento de la humanidad por lo que es importante aclararme profundamente esos limites de la propiedad y como hizo Mexico, promover que todo lo que se hace con IA es de dominio publico o por lo menos no puede ser protegido por leyes ni restricciones de propiedad.
 
-Esto es bidireccional?
+Yeaahh si es bidireccional
