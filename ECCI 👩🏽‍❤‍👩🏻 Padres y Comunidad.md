@@ -1,16 +1,9 @@
 [Google Docs Doc](https://docs.google.com/document/d/1FYBDTyIZNT0z_96xVoIGAPj2nJCLB1-nPUzOi2sszdg/edit?tab=t.0)
 [NotebookLM](https://notebooklm.google.com/notebook/432d8b51-6888-4ab9-aa76-3490bbc87c5b)
 
-**  
-
 # Alianza para el Éxito: Un Marco Estratégico para la Vinculación Familiar en la ECCI
 
-  
-  
-
 ## El Nuevo Pacto: Redefiniendo la Alianza entre la Universidad y la Familia
-
-  
 
 La transición de la educación secundaria a la superior representa uno de los hitos más significativos en la vida de un estudiante y su familia. Tradicionalmente, este momento era percibido como un punto de ruptura, donde la institución asumía la totalidad de la responsabilidad formativa y la familia daba un paso atrás. Sin embargo, una creciente y robusta base de evidencia demuestra que este paradigma es obsoleto y contraproducente. La colaboración activa y estratégica entre la universidad y la familia no es una cortesía opcional, sino un componente fundamental para el éxito académico, la permanencia estudiantil y el desarrollo integral del futuro profesional. Esta sección establece el fundamento empírico y conceptual para que la Escuela Colombiana de Carreras Industriales (ECCI) diseñe e implemente un programa de vinculación familiar, argumentando que dicha iniciativa es una inversión estratégica con retornos medibles y un pilar de su misión educativa.
 
