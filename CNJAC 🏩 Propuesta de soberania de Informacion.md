@@ -1,4 +1,4 @@
-**
+[NotebookLM 🏩 Teleologia de la accion comunal](https://notebooklm.google.com/notebook/5c208387-e125-4cd0-bb09-5f0709defb41)  
 
 # Propuesta Estratégica: Soberanía de la Información para la Acción Comunal
 
