@@ -2,9 +2,6 @@
 
 # Deconstruyendo el Rim: Un Plano Arquitectónico para el Modding Avanzado
 
-  
-  
-
 ## Sección 1: El Ecosistema de Modding y el Conjunto de Herramientas Fundamentales
 
   
