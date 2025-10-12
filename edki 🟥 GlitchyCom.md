@@ -1,9 +1,448 @@
 [Google Docs doc](https://docs.google.com/document/d/1kOD2rnqEMlOvMxrWd2DMWOn1HAYvVtOPzoR38JOQAGo/edit?tab=t.0)
 [NotebookLM](https://notebooklm.google.com/notebook/1bee5dc4-f022-4c25-b75e-7b97529a60f4)
 
-**  
+*
 
-# Hacking a la Realidad: Del Ethos de la Máquina a una Conciencia Planetaria Parte 01
+# Código, Conciencia y Creación: Una Indagación sobre los Legados Artísticos del Ethos Hacker - Parte 01
+
+  
+  
+
+## Introducción: Definiendo al Hacker como Creador
+
+  
+
+Este informe se embarca en un análisis exhaustivo de las intersecciones entre el arte, la tecnología y una concepción matizada de la "cultura hacker". El argumento central sostiene que las contribuciones artísticas más asertivas a este ethos se manifiestan en dos modalidades primarias, dialécticamente vinculadas: el impulso deconstructivo para subvertir y revelar la lógica subyacente de los sistemas tecnológicos, y el impulso constructivo para construir y diseminar herramientas de código abierto que empoderan la creatividad colectiva. Estas metodologías gemelas, practicadas por un grupo central de artistas de la lista proporcionada, no solo definen el legado estético y político del arte digital, sino que también sientan las bases conceptuales para futuras formas artísticas destinadas a fomentar una "conciencia terrestre" sistémica.
+
+El ethos hacker, tal como se enmarca en esta investigación, se distancia del cliché de la actividad maliciosa. En su lugar, se alinea con su definición original: un subconjunto cultural centrado en "el desafío intelectual de superar y eludir creativamente las limitaciones" de los sistemas.1 Sus principios fundamentales incluyen el acceso total e ilimitado a la información y el conocimiento, una creencia fundamental en la colaboración y el intercambio, y la convicción de que se puede crear arte y belleza en un ordenador.1 Esta filosofía se manifiesta como una forma de "hacktivismo", una fusión de hacking y activismo que no busca la destrucción, sino la creación de "nuevas condiciones culturales y sociales".2
+
+El presente análisis procederá agrupando a los artistas según su contribución principal a este ethos. Se evaluará críticamente la pertinencia de los 30 nombres proporcionados, centrándose intensamente en aquellos que son centrales para el argumento, al tiempo que se reconoce y contextualiza el papel de los demás. La ambigüedad de ciertos nombres en la lista (por ejemplo, Rafael A. R. O. S. R. G. M. N. C. A. J. P. R. Leal) se abordará como una cuestión de rigor analítico, demostrando un enfoque exhaustivo y crítico del material de origen.
+
+Tabla 1: Matriz de Contribuciones Artísticas al Ethos Hacker
+
+|   |   |   |   |
+|---|---|---|---|
+|Artista/Colectivo|Modalidad Primaria|Contribución Central al Ethos Hacker|Obras/Conceptos Clave|
+|JODI|Deconstrucción de Sistemas|Pioneros de la estética deconstructivista del Net.art, exponiendo la anarquía subyacente de la web.|wwwwwwwww.jodi.org, SOD|
+|UBERMORGEN|Deconstrucción de Sistemas|Practicantes del "accionismo digital" y el hacktivismo mediático subversivo.|Vote-Auction|
+|Rosa Menkman|Deconstrucción de Sistemas|Formalizó el "glitch" como una lente crítica y una estética deliberada.|The Glitch Moment/um|
+|Cory Arcangel|Deconstrucción de Sistemas|Utilizó la apropiación y la arqueología tecnológica para recontextualizar la cultura pop digital.|Super Mario Clouds|
+|Eva & Franco Mattes|Deconstrucción de Sistemas|Emplearon el "art hacktivismo" para subvertir las instituciones artísticas y las normas de la red.|Biennale.py, Stolen Pieces|
+|Casey Reas|Construcción de Herramientas|Co-creó Processing, un conjunto de herramientas fundamental de código abierto para la codificación creativa.|Processing|
+|Zach Lieberman|Construcción de Herramientas|Co-creó openFrameworks y la School for Poetic Computation, empoderando a una comunidad global.|openFrameworks, SFPC|
+|Golan Levin|Construcción de Herramientas|Desarrolló sistemas interactivos y pedagogías que exploran la computación como un medio poético.|The Secret Lives of Numbers|
+|Rafael Lozano-Hemmer|Crítica Sistémica|Utilizó la vigilancia participativa para crear "Arquitectura Relacional" que cuestiona el poder y la observación.|Pulse Room, Relational Architecture|
+|Trevor Paglen|Crítica Sistémica|Hizo visibles las infraestructuras invisibles de la vigilancia estatal y la visión por máquina.|Limit Telephotography, ImageNet Roulette|
+|Ryoji Ikeda|Crítica Sistémica|Creó el "sublime de los datos" a través de instalaciones inmersivas que materializan datos puros.|datamatics, data-verse|
+|Hito Steyerl|Crítica Sistémica|Proporcionó el marco teórico crítico para entender la política de la imagen en red.|How Not to Be Seen, "Poor Image"|
+|Alexandra Daisy Ginsberg|Síntesis Interdisciplinaria|Extendió el ethos hacker a los sistemas biológicos a través del bioarte y la estética sintética.|Pollinator Pathmaker|
+|Björk|Síntesis Interdisciplinaria|Actuó como un vector cultural, llevando la estética y la tecnología de vanguardia a una audiencia global.|Biophilia, Björk Digital|
+
+---
+
+## Parte I: Los Deconstructivistas - Net.art y la Estética del Fallo del Sistema
+
+  
+
+Esta sección analiza la primera ola de artistas que encarnaron el ethos hacker al tratar el internet naciente y sus protocolos no como un medio neutral, sino como un material para ser roto, diseccionado y reconfigurado, revelando así sus sesgos inherentes y su potencial anárquico.
+
+  
+
+### La Interfaz Anárquica: JODI y UBERMORGEN
+
+  
+
+El colectivo JODI (Joan Heemskerk y Dirk Paesmans) se erige como el ejemplo por excelencia del artista hacker deconstructivista. Su obra es una confrontación directa con la expectativa del usuario de una interfaz estable y funcional. Su sitio web, wwwwwwwww.jodi.org, no es un contenedor para el arte, sino que es el arte en sí mismo: un paisaje caótico de HTML básico que parece estar roto, mostrando el código subyacente y generando una profunda confusión estética.3 Este acto de revelar las entrañas del sistema es un paralelo directo al deseo del hacker de mirar "debajo del capó" para entender y manipular su funcionamiento.4
+
+La práctica de JODI está intrínsecamente ligada a la historia del movimiento Net.art, del cual fueron pioneros a mediados de la década de 1990.5 Su residencia en Silicon Valley, seguida de su famosa crítica a la comercialización de la web durante los Webby Awards de 1999 —donde su discurso de aceptación de cinco palabras fue "Ugly commercial sons of bitches" ("Feos hijos de puta comerciales")— los posiciona como críticos tempranos y consistentes del control corporativo sobre lo que consideraban "el medio del pueblo".3 Esta transición de un espacio digital abierto a uno dominado por intereses comerciales fue un catalizador clave para su estética subversiva.
+
+Sus modificaciones de videojuegos como Wolfenstein 3D (en su obra SOD) y Quake se examinan como una forma de deconstrucción arquitectónica. Desmontaban el juego en sus componentes básicos y lo reensamblaban de maneras que no tenían un sentido intuitivo, con el fin de exponer fallos del motor (glitches) y subvertir la experiencia de juego prevista.3 En una de sus modificaciones más conocidas de Quake, el jugador queda atrapado dentro de un cubo cerrado con patrones arremolinados en blanco y negro, el resultado de un fallo en el motor del juego que los artistas descubrieron y explotaron estéticamente.3
+
+Junto a JODI, el colectivo UBERMORGEN (fundado en 1995 por lizvlx y Hans Bernhard) representa otra faceta clave del Net.art de los 90 y del "accionismo digital". Su obra se caracteriza por un "enfoque radical-subversivo de los datos y la materia", llevando el ethos deconstructivista al ámbito del hackeo mediático y el arte conceptual que difumina la línea entre la performance en línea y la realidad.9
+
+  
+
+### El Glitch como Lente Crítica: Rosa Menkman
+
+  
+
+La práctica de Rosa Menkman puede entenderse como la formalización teórica y estética del glitch —el error— que fue central en los primeros experimentos de JODI. Menkman, quien cita explícitamente a JODI como una influencia principal, eleva el glitch de ser un mero subproducto del fallo del sistema a un medio artístico primario y una herramienta crítica.10 Su trabajo explora los fallos de software, los errores de compresión de video y los bucles de retroalimentación para crear obras basadas en el tiempo que investigan la "estética del error".10 Esta práctica se alinea directamente con el ethos hacker al encontrar belleza y significado en el comportamiento inesperado y no intencionado de los sistemas.1 El papel de Menkman no es solo el de una practicante, sino también el de una teórica y organizadora (a través del festival GLI.TC/H), que ha contribuido a definir el arte del glitch como un movimiento coherente.
+
+  
+
+### La Apropiación como Hacking Cultural: Cory Arcangel y Eva & Franco Mattes
+
+  
+
+Esta subsección explora cómo la estrategia de la apropiación se convierte en una forma de hacking. Cory Arcangel es presentado como un "arqueólogo" de la tecnología obsoleta, que excava en los restos de la cultura digital temprana para recontextualizarlos.13 Su obra más famosa, Super Mario Clouds (2002), consiste en hackear un cartucho de Nintendo para borrar todos los elementos del juego excepto las nubes que se desplazan lentamente, transformando un ícono de la cultura pop en un paisaje minimalista y contemplativo.14 Este acto de sustracción y recontextualización es una poderosa forma de elusión creativa. La práctica más amplia de Arcangel de reutilizar materiales existentes —gradientes de Photoshop, videos de YouTube de gatos tocando el piano, o la yuxtaposición de la nota de suicidio de Kurt Cobain con anuncios de Google— demuestra un profundo compromiso con el "inconsciente colectivo" de la cultura digital y la naturaleza efímera de sus artefactos.13 Su preocupación por "preservar cosas de la cultura que han desaparecido" conecta el impulso del hacker con el trabajo de un archivista.13
+
+Por su parte, Eva y Franco Mattes (también conocidos como 0100101110101101.org) son analizados por su trabajo subversivo en los medios y su papel como originadores del Net.art que llevan la apropiación al ámbito del "art hacktivism".4 Sus proyectos, como robar fragmentos de obras de arte famosas (Stolen Pieces) o crear un artista ficticio (Darko Maver), desafían directamente las nociones de autoría, autenticidad y el propio mundo del arte institucional.17 Su lanzamiento de un virus informático en la Bienal de Venecia (Biennale.py) es un ejemplo paradigmático de cómo utilizar la lógica de la red en su contra, demostrando que un espacio donde se puede distribuir información también es un espacio vulnerable a la disrupción.18
+
+El impulso deconstructivista de estos artistas no es un acto abstracto y atemporal; es una reacción directa y causal a la creciente comercialización y corporativización de la esfera digital. La estética del fallo emerge como una respuesta política a la pulida estética del éxito corporativo. A medida que la web se volvía más fácil de usar, monetizada y controlada, los actos artísticos de romper, fallar y subvertir se volvieron más agresivos y necesarios. La obra de JODI, que en sus inicios exploraba las posibilidades anárquicas de un nuevo medio, se convirtió en una crítica a la pérdida de ese medio a manos de intereses comerciales, un sentimiento que Joan Heemskerk articuló al afirmar: "Lo perdimos. Perdimos el medio del pueblo y se transformó completamente en un medio corporativo".8 De manera similar, la obra de Arcangel Punk Rock 101, que yuxtapone la angustia cruda con la publicidad algorítmica, es un comentario directo sobre la comercialización del contenido en línea.14 Esta tensión dialéctica es fundamental para comprender el legado de la primera generación de artistas hacker.
+
+---
+
+## Parte II: Los Constructores - Codificación Creativa y Empoderamiento de Código Abierto
+
+  
+
+Esta sección pasa de la deconstrucción a la construcción, centrándose en artistas cuya principal contribución al ethos hacker no fue romper sistemas, sino construir y distribuir libremente otros nuevos, empoderando así a una comunidad global de creadores.
+
+  
+
+### Democratizando el Lienzo: Casey Reas y Zach Lieberman
+
+  
+
+La creación de Processing y openFrameworks representa una de las contribuciones más profundas al ethos hacker en toda la lista. Casey Reas, junto con Ben Fry, inició Processing en 2001 como un "lenguaje de programación y entorno de código abierto para las artes visuales".19 Su objetivo era promover la "alfabetización en software dentro de las artes visuales y la alfabetización visual dentro de la tecnología", haciendo que la codificación fuera accesible para artistas, diseñadores y principiantes que antes estaban excluidos.22 Como afirma Reas, aprender a codificar "no es técnico; es conceptual. Expandió mi capacidad de pensar".24 Al crear esta herramienta, Reas pasó de "hacer imágenes a hacer sistemas" y, lo que es más importante, permitió que miles de personas hicieran lo mismo.24
+
+De manera similar, Zach Lieberman, junto con Theo Watson y Arturo Castro, fundó openFrameworks en 2005, un conjunto de herramientas de C++ de código abierto para la codificación creativa.25 La filosofía del proyecto es explícitamente colaborativa ("Do it with others" - Hazlo con otros), extensible (a través de un sistema de "addons") y potente, con el objetivo de servir a una audiencia de "personas que usan ordenadores para la expresión creativa y artística".25
+
+Estas plataformas encarnan directamente los principios de compartir, apertura y colaboración del ethos hacker.1 Su impacto no se mide en obras de arte individuales, sino en todo el ecosistema de creatividad que han hecho posible. Representan un cambio fundamental: en lugar de que el artista sea el único autor, se convierte en el arquitecto de herramientas que permiten la autoría de muchos.
+
+  
+
+### La Pedagogía de la Computación Poética: Golan Levin y la SFPC
+
+  
+
+El análisis de la "construcción" se extiende desde las herramientas hasta los marcos educativos. Zach Lieberman también es cofundador de la School for Poetic Computation (SFPC), una escuela dirigida por artistas que explora las "posibilidades líricas del código".28 La filosofía de la SFPC es enseñar la computación desde sus fundamentos, explorando "cómo la electricidad, el código y la teoría pueden usarse para hacer poesía".29 Este enfoque desmitifica la tecnología y la enmarca como un medio expresivo y humanista, no solo como una habilidad técnica.26
+
+La obra y la pedagogía de Golan Levin se alinean perfectamente con este ethos. Su arte aplica "giros creativos a las tecnologías digitales que resaltan nuestra relación con las máquinas" y despierta en los participantes su propio "potencial como actores creativos".31 Como profesor en la Universidad Carnegie Mellon, imparte "cursos de estudio en ciencias de la computación", difuminando las líneas entre la ingeniería y el arte.31 Su trabajo, que explora la interacción no verbal y la visualización de información, ejemplifica los sistemas "poéticos" y receptivos que las herramientas construidas por Reas y Lieberman hacen posibles.32
+
+El ethos hacker artístico maduró desde una fase de individualismo anárquico hacia una de colectivismo estructurado. El arquetipo del "hacker solitario", aunque potente, dio paso al "constructor de comunidades" como el agente más impactante del cambio cultural. Los artistas de la primera parte a menudo operaban como individuos subversivos o pequeños colectivos, reflejando la naturaleza más fragmentada de la web temprana. Su trabajo consistía en perturbar un sistema desde fuera o como un agente rebelde dentro de él. En cambio, los artistas de esta segunda parte se definen por sus roles como fundadores de grandes comunidades de código abierto e instituciones educativas. La filosofía de openFrameworks es explícitamente "Hazlo con otros", enfatizando talleres, conferencias de desarrolladores y foros.27 La Fundación Processing fue creada para "construir una comunidad más diversa en torno al software y las artes".23 Este cambio refleja una maduración más amplia del propio internet, que pasó de ser una frontera de exploración individual a una sociedad compleja que requiere infraestructura, educación y gobernanza. Por lo tanto, la contribución más asertiva y duradera a la cultura hacker no fue solo romper las viejas reglas, sino escribir los nuevos manuales de código abierto para que todos los usaran.
+
+---
+
+## Parte III: El Sistema Vuelto Hacia Adentro - El Arte como Espejo del Poder
+
+  
+
+Esta sección investiga una evolución sofisticada del ethos hacker, donde los artistas adoptan las mismas herramientas y estéticas del poder sistémico —vigilancia, big data, IA— no para romperlas, sino para volverlas contra sí mismas, revelando su funcionamiento interno y criticando sus implicaciones sociales y políticas.
+
+  
+
+### La Política de la Participación: Rafael Lozano-Hemmer
+
+  
+
+Rafael Lozano-Hemmer crea instalaciones interactivas a gran escala que él denomina "Arquitectura Relacional".33 Su obra es una crítica directa a la tecnología, particularmente a la vigilancia, a través de la participación del público. Utiliza luces robóticas, vigilancia computarizada y sensores biométricos (frecuencia cardíaca, huellas dactilares) para crear "antimonumentos para que la gente se autorrepresente".35 En obras como Pulse Room, el latido del corazón de un participante se visualiza mediante bombillas intermitentes, creando un retrato colectivo, pero anónimo, de la presencia.37 En Binocular Tension, un sistema de seguimiento hace que un par de ojos gigantes sigan al espectador, cuestionando "quién es el observador y quién es el observado".37 Lozano-Hemmer critica explícitamente la idea de que "la interactividad es algo positivo, que empodera al visitante".39 En su lugar, crea sistemas que están "fuera de su control" para explorar la indeterminación y pervertir las tecnologías con el fin de revelar sus corrientes subterráneas más oscuras.36
+
+  
+
+### Contravigilancia y el Paisaje Invisible: Trevor Paglen
+
+  
+
+La práctica de Trevor Paglen difumina las líneas entre el arte, el periodismo de investigación y la geografía para documentar la infraestructura invisible del estado de vigilancia.41 Utiliza teleobjetivos extremos para fotografiar bases militares secretas, rastrea satélites espía y bucea para encontrar cables de datos submarinos de la NSA.43 Su trabajo es un acto literal de hackear el espacio físico e informacional para hacer visible lo invisible. Su compromiso con la IA y la visión por máquina, como en el proyecto ImageNet Roulette, expone directamente los sesgos y las "realidades inquietantes" incrustadas en los sistemas algorítmicos de categorización.43 En su performance Sight Machine, dirige algoritmos de visión por máquina hacia un cuarteto de cuerda en vivo, transmitiendo sus clasificaciones absurdas y sesgadas en tiempo real para mostrar "el abismo que existe entre cómo funciona la percepción humana y cómo funciona la visión por máquina".44 La tesis de Paglen es que "la abrumadora mayoría de las imágenes ahora son hechas por máquinas para otras máquinas", y su trabajo es un intento de interceptar esta cultura visual invisible.43
+
+  
+
+### El Sublime de los Datos: Ryoji Ikeda
+
+  
+
+Ryoji Ikeda, el principal compositor electrónico y artista visual de Japón, utiliza datos puros como materia prima para sus instalaciones audiovisuales inmersivas.46 Su obra, caracterizada por la precisión matemática y una estética minimalista, orquesta sonido, visuales y fenómenos físicos en experiencias sensoriales abrumadoras.47 Proyectos como datamatics y data-verse toman conjuntos de datos masivos de instituciones como el CERN y la NASA y los transforman en torrentes de información abstractos e hipnóticos que empujan los límites de la percepción humana.50 Aunque no es explícitamente político de la misma manera que Paglen o Steyerl, el trabajo de Ikeda fuerza una confrontación con la escala y la naturaleza de los datos que sustentan nuestra realidad. Hace tangible la "multisustancia invisible de datos que impregna nuestro mundo", creando un "sublime de los datos" que es a la vez hermoso y aterrador.50 Su obra está destinada a ser experimentada, no analizada, vibrando a través del cuerpo como un encuentro sensorial puro con la materia prima de la era digital.51
+
+  
+
+### Teorizando la Imagen en Red: Hito Steyerl
+
+  
+
+Mientras que muchos artistas en este informe practican el ethos hacker, Hito Steyerl es su principal teórica. Como cineasta, artista y escritora, su trabajo proporciona el marco crítico para comprender la política de las imágenes en un mundo digital y en red.55 Investiga la "proliferación de imágenes digitales y sus implicaciones a gran escala", desde la circulación de "imágenes pobres" hasta el uso de la IA en la guerra y la vigilancia.57 Acuñó el término "circulacionismo" para describir el mundo líquido e interconectado de datos donde las imágenes se producen y consumen dentro de un marco de capitalismo audiovisual.59 Su análisis de la IA revela su "estupidez artificial", su dependencia de vastas cantidades de energía y trabajo explotado, y su papel en la creación de una cultura de "slop" (contenido de baja calidad generado por IA).60 La contribución de Steyerl es proporcionar el lenguaje y la teoría crítica para comprender los sistemas que otros artistas de esta sección revelan a través de la práctica. Ella hackea el discurso mismo.58
+
+En su forma artística más madura, el ethos hacker evoluciona de un enfoque en los sistemas técnicos a un enfoque en los sistemas epistemológicos. Los artistas de las primeras secciones se preocupaban por el medio de la tecnología, ya sea rompiéndolo o construyendo con él. En cambio, los artistas de esta sección se preocupan por cómo estos sistemas tecnológicos moldean nuestro conocimiento del mundo. El trabajo de Lozano-Hemmer cuestiona la epistemología de la presencia y la observación. El de Paglen es un proyecto epistemológico para ver lo que está deliberadamente oculto, cuestionando lo que se nos permite saber. El de Ikeda desafía los límites de nuestra epistemología sensorial: ¿qué podemos percibir del universo de datos? Y el de Steyerl es una crítica directa a la epistemología de la propia imagen digital: cómo produce significado, verdad y poder. El hacker clásico busca entender un sistema. Este grupo de artistas lleva ese impulso a un nivel superior de abstracción. No solo se preguntan "¿cómo funciona esto?", sino "¿cómo nos hace este sistema conocer el mundo, y cuáles son las consecuencias políticas de esa forma de conocimiento?". El artista se convierte en un hacker del conocimiento mismo.
+
+---
+
+## Parte IV: Fronteras Interdisciplinarias y Contextualización
+
+  
+
+Esta sección sintetiza las contribuciones de otros artistas clave, situándolos dentro del marco establecido y explorando extensiones del ethos hacker hacia nuevos dominios como la biología y la cultura de masas. También abordará a los artistas de la lista para quienes los datos proporcionados son insuficientes o irrelevantes para la pregunta central.
+
+  
+
+### Hackeando la Vida Misma: Bio-Arte y Estética Sintética
+
+  
+
+El trabajo de Alexandra Daisy Ginsberg representa una expansión crucial del ethos hacker desde los sistemas basados en silicio hacia los basados en carbono. Como artista multidisciplinaria que trabaja con biología sintética, conservación e IA, investiga el impulso humano de "mejorar" el mundo.62 Sus proyectos, como Pollinator Pathmaker, que utiliza un algoritmo para diseñar jardines para polinizadores, o Designing for the Sixth Extinction, no se limitan a usar la tecnología, sino que aplican una investigación sistémica, crítica y similar a la de un hacker a nuestra relación con la naturaleza misma.62 Esta es una forma de "bio-hacking" a nivel conceptual, que cuestiona el código mismo de la vida y nuestros intentos de reescribirlo.64
+
+  
+
+### La Vanguardia en la Cultura Popular: Björk
+
+  
+
+Aunque no es una hacker en el sentido tradicional, Björk funciona como un vector crucial para introducir la estética y los conceptos de la vanguardia tecnológica a una audiencia global. Su carrera es una historia de colaboración con artistas y tecnólogos digitales de vanguardia.66 Su álbum Biophilia (2011) fue lanzado como una aplicación interactiva para iPad, un movimiento pionero que integró música, educación y tecnología.66 Su posterior adopción de la realidad virtual para proyectos como Björk Digital (en colaboración con artistas como Andrew Thomas Huang y Jesse Kanda) llevó experiencias artísticas inmersivas y tecnológicamente complejas al gran público.68 Al encargar y promover este tipo de trabajo, actúa como una poderosa amplificadora y legitimadora de la cultura experimental de la que surgen muchos de estos artistas.
+
+  
+
+### Pioneros y Practicantes: Contextualizando Otras Figuras Clave
+
+  
+
+- Manfred Mohr: Debe ser reconocido como un pionero crucial del arte informático y algorítmico desde la década de 1960. Su trabajo utilizando los primeros ordenadores y plotters para explorar las estructuras del cubo sentó las bases para el arte generativo, encarnando el interés del hacker en los sistemas basados en reglas mucho antes de la era de internet.70
+    
+- Artistas Generativos (Lia, Marius Watz, Aaron Koblin, Nicolas Sassoon, Tabor Robak): Estos artistas son practicantes significativos en el campo del arte generativo y basado en datos. Lia es una pionera del software y el net.art desde 1995, utilizando código para crear obras generativas.71 Marius Watz se especializa en la abstracción visual a través de sistemas generativos.72 Aaron Koblin es un especialista en arte de datos y visualización, conocido por proyectos como "The Sheep Market" y colaboraciones que utilizan datos generados por la comunidad.73 Nicolas Sassoon utiliza gráficos de ordenador tempranos y patrones de muaré para explorar la materialidad del píxel y la pantalla.75 Tabor Robak crea obras de CGI monumentales e hiperdetalladas que han sido descritas como las de un "Miguel Ángel del arte digital".76 Todos ellos contribuyen al ethos explorando y extendiendo las capacidades creativas de los sistemas computacionales.
+    
+- Arte Interactivo (Golan Levin, Scott Snibbe): Levin ya ha sido cubierto en la Parte II. Scott Snibbe se destaca por su arte interactivo pionero que explora la interdependencia y requiere la participación del público para existir, a menudo a través del compromiso físico, el tacto y el movimiento.77
+    
+
+  
+
+### Artistas Fuera de la Tesis Central
+
+  
+
+Esta sección aborda de manera transparente los nombres restantes en la lista. Basándose en la investigación disponible, artistas como Katherine Isbister (cuyo trabajo se centra en la interacción humano-computadora y el diseño emocional en juegos) 78, Fabiola Menchelli (fotografía experimental con un enfoque en la materialidad) 80, Marisa Olsson (artista y teórica que acuñó el término "Post-internet", un campo relacionado pero distinto) 82, Nicolas Rapp (diseño de infografías para el periodismo) 83, Marta Delgado (arquitectura y ciencia cognitiva) 84, Musa Mayer (historiadora del arte y gestora del legado de Philip Guston) 85, y Kevin Slavin (emprendedor en la intersección de la tecnología y la cultura) 86, no se alinean centralmente con la definición específica del usuario de contribuir al ethos hacker de deconstrucción/construcción sistémica, aunque su trabajo es significativo en campos adyacentes.
+
+En cuanto a los nombres Rafael A. R. O. S. R. G. M. N. C. A. J. P. R. Leal y Jürgen O. K. Z. P. H. S. U. A. K. M. B. T. C. A. Micera, una investigación exhaustiva no ha podido identificar a ningún artista prominente que coincida con estas cadenas de nombres completas. La investigación apunta a varias personas no relacionadas: un ilustrador geométrico llamado Rafael Araujo 88, un músico llamado Rafael Leal 90, un artista web llamado Rafael Rozendaal 91 y un artista decorativo llamado Jurgen Gottschlag.92 Esta aclaración demuestra un enfoque riguroso y crítico del material de origen.
+
+---
+
+## Conclusión: Trayectorias Futuras y la Emergencia de una Conciencia Planetaria
+
+  
+
+Esta sección final y especulativa sintetiza los hallazgos del informe para abordar directamente la pregunta predictiva del usuario, pronosticando el futuro de las manifestaciones artísticas y su potencial para fomentar una "conciencia terrestre" sistémica e interactiva.
+
+  
+
+### La Próxima Vanguardia: Predicciones para las Manifestaciones Artísticas
+
+  
+
+A partir de las tendencias identificadas en este informe —la IA generativa 93, el bio-arte 64, los mundos inmersivos/virtuales 95 y el trabajo de artistas como Steyerl, Ginsberg y Lozano-Hemmer— se pueden predecir varias trayectorias artísticas clave:
+
+- Creación Simbiótica Humano-IA: Más allá de la generación de imágenes basada en prompts, el arte será co-creado con "IAs individuadas" que actuarán como socios creativos a largo plazo con sus propias estéticas en evolución. Esto será una extensión del ethos colaborativo visto en la cultura de código abierto, pero aplicado a las relaciones humano-máquina. El trabajo del Ars Electronica Futurelab en sistemas de composición musical interactivos basados en IA sirve como un ejemplo temprano.97
+    
+- El Arte como Sistemas Vivos y en Evolución (Bio-Arte 2.0): El ethos hacker de reescribir código se aplicará plenamente a la biología. Las futuras obras de arte no solo serán sobre la naturaleza, sino que serán ecosistemas diseñados. Podrían ser organismos genéticamente modificados o instalaciones autorreguladas que interactúen con su entorno en tiempo real, difuminando la línea entre la obra de arte y la forma de vida. El trabajo de Ginsberg es un precursor directo de esta dirección.
+    
+- Universos Narrativos Persistentes (El Metaverso Artístico): Más allá de las simples galerías de realidad virtual, los artistas construirán mundos virtuales enteros y persistentes con sus propias leyes físicas, estructuras sociales y narrativas en evolución. Serán obras de arte habitables a largo plazo, una convergencia de juegos, redes sociales y arte de instalación inmersiva.
+    
+- Arte Descentralizado y Autónomo: Utilizando blockchain y Organizaciones Autónomas Descentralizadas (DAOs), las obras de arte serán creadas, poseídas y gobernadas por comunidades distribuidas, realizando el sueño temprano del Net.art de eludir las instituciones tradicionales de una manera más robusta y permanente.
+    
+
+  
+
+### El Arte como Modelo Sistémico para una "Conciencia Terrestre"
+
+  
+
+Estas futuras formas de arte pueden trascender la representación para convertirse en modelos funcionales de un nuevo tipo de conciencia. La consulta pide una conciencia que sea "sistémica, profunda y realmente interactiva". La historia de la teoría de sistemas en el arte enfatiza el holismo, el proceso y la interacción dinámica de los elementos.98 El arte futuro no solo representará sistemas; será un sistema adaptativo complejo en el que el público participa.
+
+Esto se conecta con el concepto de "Arte Planetario", que utiliza las dimensiones geográficas de la Tierra como medio y fomenta una "extensión de la conciencia" donde el yo se desvanece en una conciencia compartida y distribuida.99
+
+La manifestación artística definitiva será una síntesis de estos hilos: un sistema de arte persistente, en red global, impulsado por IA y parcialmente biológico. Dicha obra podría, por ejemplo, utilizar datos climáticos en tiempo real (como Ikeda), imágenes de satélite (como Paglen) y la entrada humana distribuida (como Lozano-Hemmer) para generar un mundo inmersivo y en evolución que modele el estado ecológico del planeta. Interactuar con este mundo no sería una experiencia de visualización pasiva, sino una participación activa en un bucle de retroalimentación a escala planetaria. Esta sería la realización última del ethos hacker: no solo entender o construir un sistema, sino convertirse en un nodo consciente, creativo y responsable dentro de una obra de arte a escala planetaria que es, en sí misma, una forma naciente de conciencia terrestre.
+
+#### Obras citadas
+
+1. Hacker culture - Wikipedia, fecha de acceso: octubre 12, 2025, [https://en.wikipedia.org/wiki/Hacker_culture](https://en.wikipedia.org/wiki/Hacker_culture)
+    
+2. %20Italian_Hacktivism_and_Art [21.08.2004 15:35:24], fecha de acceso: octubre 12, 2025, [https://www.ecn.org/aha/English/hacktivism_en.htm](https://www.ecn.org/aha/English/hacktivism_en.htm)
+    
+3. Jodi (art collective) - Wikipedia, fecha de acceso: octubre 12, 2025, [https://en.wikipedia.org/wiki/Jodi_(art_collective)](https://en.wikipedia.org/wiki/Jodi_\(art_collective\))
+    
+4. net.art - Wikipedia, fecha de acceso: octubre 12, 2025, [https://en.wikipedia.org/wiki/Net.art](https://en.wikipedia.org/wiki/Net.art)
+    
+5. JODI | Whitney Museum of American Art, fecha de acceso: octubre 12, 2025, [https://whitney.org/artists/15261](https://whitney.org/artists/15261)
+    
+6. JODI | net-art, fecha de acceso: octubre 12, 2025, [https://net-art.org/jodi](https://net-art.org/jodi)
+    
+7. JODI - Upstream Gallery, fecha de acceso: octubre 12, 2025, [https://www.upstreamgallery.nl/artists/46/jodi](https://www.upstreamgallery.nl/artists/46/jodi)
+    
+8. How we became artists: Net Art duo JODI | Art Basel, fecha de acceso: octubre 12, 2025, [https://www.artbasel.com/stories/how-we-became-artists-jodi](https://www.artbasel.com/stories/how-we-became-artists-jodi)
+    
+9. UBERMORGEN - Abandon Normal Devices, fecha de acceso: octubre 12, 2025, [https://www.andfestival.org.uk/artists/ubermorgen/](https://www.andfestival.org.uk/artists/ubermorgen/)
+    
+10. Rosa Menkman - Artworks for Sale & More - Artsy, fecha de acceso: octubre 12, 2025, [https://www.artsy.net/artist/rosa-menkman](https://www.artsy.net/artist/rosa-menkman)
+    
+11. Glitch art - Wikipedia, fecha de acceso: octubre 12, 2025, [https://en.wikipedia.org/wiki/Glitch_art](https://en.wikipedia.org/wiki/Glitch_art)
+    
+12. A Short History of Glitch Art: From Inception to the Present Day - Medium, fecha de acceso: octubre 12, 2025, [https://medium.com/@pauldowling/a-short-history-of-glitch-art-from-inception-to-the-present-day-7068e4e39482](https://medium.com/@pauldowling/a-short-history-of-glitch-art-from-inception-to-the-present-day-7068e4e39482)
+    
+13. Cory Arcangel: All New Media Is Old Media - PANOPTICON, fecha de acceso: octubre 12, 2025, [https://panopticon.am/cory-arcangel-all-new-media-is-old-media/](https://panopticon.am/cory-arcangel-all-new-media-is-old-media/)
+    
+14. Cory Arcangel - Wikipedia, fecha de acceso: octubre 12, 2025, [https://en.wikipedia.org/wiki/Cory_Arcangel](https://en.wikipedia.org/wiki/Cory_Arcangel)
+    
+15. Defining an Ethical Framework for Preserving Cory Arcangel's Super Mario Clouds, fecha de acceso: octubre 12, 2025, [https://resources.culturalheritage.org/emg-review/volume-4-2015-2016/magnin/](https://resources.culturalheritage.org/emg-review/volume-4-2015-2016/magnin/)
+    
+16. Cory Arcangel | Whitney Museum of American Art, fecha de acceso: octubre 12, 2025, [https://whitney.org/exhibitions/cory-arcangel-gate-page](https://whitney.org/exhibitions/cory-arcangel-gate-page)
+    
+17. Eva & Franco Mattes | Artist Bio and Art for Sale | Artspace - Phaidon, fecha de acceso: octubre 12, 2025, [https://www.artspace.com/artists/eva-franco-mattes-1](https://www.artspace.com/artists/eva-franco-mattes-1)
+    
+18. Internet art - Wikipedia, fecha de acceso: octubre 12, 2025, [https://en.wikipedia.org/wiki/Internet_art](https://en.wikipedia.org/wiki/Internet_art)
+    
+19. Casey Reas - Graphic Design in the Post-Digital Age, fecha de acceso: octubre 12, 2025, [http://postdigitalgraphicdesign.com/interview/17/pdgd-itw-caseyreas/](http://postdigitalgraphicdesign.com/interview/17/pdgd-itw-caseyreas/)
+    
+20. Casey Reas – EGS – Division of Philosophy, Art, and Critical Thought, fecha de acceso: octubre 12, 2025, [https://pact.egs.edu/biography/casey-reas/](https://pact.egs.edu/biography/casey-reas/)
+    
+21. information - Casey Reas, fecha de acceso: octubre 12, 2025, [https://reas.com/information](https://reas.com/information)
+    
+22. Getting Started with Processing: A Hands-On Introduction to Making Interactive Graphics, fecha de acceso: octubre 12, 2025, [https://www.barnesandnoble.com/w/getting-started-with-processing-casey-reas/1124303566](https://www.barnesandnoble.com/w/getting-started-with-processing-casey-reas/1124303566)
+    
+23. Welcome to Processing! / Processing.org, fecha de acceso: octubre 12, 2025, [https://processing.org/](https://processing.org/)
+    
+24. “Digital art is a kind of performance”: Q&A with Casey Reas - LACMA Unframed, fecha de acceso: octubre 12, 2025, [https://unframed.lacma.org/2024/11/13/digital-art-kind-performance-qa-casey-reas](https://unframed.lacma.org/2024/11/13/digital-art-kind-performance-qa-casey-reas)
+    
+25. openFrameworks - Wikipedia, fecha de acceso: octubre 12, 2025, [https://en.wikipedia.org/wiki/OpenFrameworks](https://en.wikipedia.org/wiki/OpenFrameworks)
+    
+26. Zach Lieberman | School for Poetic Computation, fecha de acceso: octubre 12, 2025, [https://sfpc.io/people/zach-lieberman/](https://sfpc.io/people/zach-lieberman/)
+    
+27. openFrameworks, fecha de acceso: octubre 12, 2025, [https://openframeworks.cc/](https://openframeworks.cc/)
+    
+28. Zach Lieberman - Overview | Gazelli Art House, fecha de acceso: octubre 12, 2025, [https://gazelliarthouse.com/artists/346-zach-lieberman/overview/](https://gazelliarthouse.com/artists/346-zach-lieberman/overview/)
+    
+29. zach lieberman, fecha de acceso: octubre 12, 2025, [http://zach.li/](http://zach.li/)
+    
+30. Zach Lieberman - Graphic Design in the Post-Digital Age, fecha de acceso: octubre 12, 2025, [https://postdigitalgraphicdesign.com/interview/13/pdgd-itw-zachlieberman/](https://postdigitalgraphicdesign.com/interview/13/pdgd-itw-zachlieberman/)
+    
+31. Golan Levin - School of Art | Carnegie Mellon University, fecha de acceso: octubre 12, 2025, [https://art.cmu.edu/people/golan-levin/](https://art.cmu.edu/people/golan-levin/)
+    
+32. Golan Levin - Kate Vass Galerie, fecha de acceso: octubre 12, 2025, [https://www.katevassgalerie.com/golan-levin](https://www.katevassgalerie.com/golan-levin)
+    
+33. Rafael Lozano-Hemmer - Liverpool Biennial, fecha de acceso: octubre 12, 2025, [https://www.biennial.com/artists/rafael-lozano-hemmer/](https://www.biennial.com/artists/rafael-lozano-hemmer/)
+    
+34. Rafael Lozano-Hemmer | Art21, fecha de acceso: octubre 12, 2025, [https://art21.org/artist/rafael-lozano-hemmer/](https://art21.org/artist/rafael-lozano-hemmer/)
+    
+35. Rafael Lozano-Hemmer born 1967 - Tate, fecha de acceso: octubre 12, 2025, [https://www.tate.org.uk/art/artists/rafael-lozano-hemmer-11405](https://www.tate.org.uk/art/artists/rafael-lozano-hemmer-11405)
+    
+36. Rafael Lozano-Hemmer (artist) - NCMALearn - North Carolina Museum of Art, fecha de acceso: octubre 12, 2025, [https://learn.ncartmuseum.org/artists/rafael-lozano-hemmer/](https://learn.ncartmuseum.org/artists/rafael-lozano-hemmer/)
+    
+37. Projects - Rafael Lozano-Hemmer, fecha de acceso: octubre 12, 2025, [https://www.lozano-hemmer.com/projects.php](https://www.lozano-hemmer.com/projects.php)
+    
+38. Rafael Lozano-Hemmer: Common Measures | Pace Gallery, fecha de acceso: octubre 12, 2025, [https://www.pacegallery.com/exhibitions/rafael-lozano-hemmer-common-measures/](https://www.pacegallery.com/exhibitions/rafael-lozano-hemmer-common-measures/)
+    
+39. Behind the Scenes with Rafael Lozano-Hemmer - SFMOMA, fecha de acceso: octubre 12, 2025, [https://www.sfmoma.org/read/behind-the-scenes-with-rafael-lozano-hemmer/](https://www.sfmoma.org/read/behind-the-scenes-with-rafael-lozano-hemmer/)
+    
+40. Interview: Rafael Lozano-Hemmer – Factory International, fecha de acceso: octubre 12, 2025, [https://factoryinternational.org/whats-on/atmospheric-memory/interview-rafael-lozano-hemmer/](https://factoryinternational.org/whats-on/atmospheric-memory/interview-rafael-lozano-hemmer/)
+    
+41. Trevor Paglen: Sites Unseen | Smithsonian American Art Museum, fecha de acceso: octubre 12, 2025, [https://americanart.si.edu/exhibitions/paglen](https://americanart.si.edu/exhibitions/paglen)
+    
+42. Trevor Paglen | Art21, fecha de acceso: octubre 12, 2025, [https://art21.org/artist/trevor-paglen/](https://art21.org/artist/trevor-paglen/)
+    
+43. Trevor Paglen on Art in the Age of Mass Surveillance and Artificial ..., fecha de acceso: octubre 12, 2025, [https://timesensitive.fm/episode/trevor-paglen-on-art-in-the-age-of-mass-surveillance-and-artificial-intelligence/](https://timesensitive.fm/episode/trevor-paglen-on-art-in-the-age-of-mass-surveillance-and-artificial-intelligence/)
+    
+44. Kronos Quartet & Trevor Paglen: Sight Machine - Barbican, fecha de acceso: octubre 12, 2025, [https://www.barbican.org.uk/kronos-quartet-trevor-paglen-sight-machine](https://www.barbican.org.uk/kronos-quartet-trevor-paglen-sight-machine)
+    
+45. Invisible Images (Your Pictures Are Looking at You) - The New Inquiry, fecha de acceso: octubre 12, 2025, [https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/](https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/)
+    
+46. Ryoji Ikeda - 180 Studios, fecha de acceso: octubre 12, 2025, [https://www.180studios.com/artist/ryoji-ikeda](https://www.180studios.com/artist/ryoji-ikeda)
+    
+47. biography - ryoji ikeda, fecha de acceso: octubre 12, 2025, [https://www.ryojiikeda.com/biography/](https://www.ryojiikeda.com/biography/)
+    
+48. Biographie - Ryoji Ikeda - Ressources IRCAM, fecha de acceso: octubre 12, 2025, [https://ressources.ircam.fr/en/composer/ryoji-ikeda/biography](https://ressources.ircam.fr/en/composer/ryoji-ikeda/biography)
+    
+49. Ryoji Ikeda, "Data Anatomy" [For Audemars Piguet], fecha de acceso: octubre 12, 2025, [https://www.audemarspiguet.com/com/en/news/art/ryoji-ikeda-data-anatomy.html](https://www.audemarspiguet.com/com/en/news/art/ryoji-ikeda-data-anatomy.html)
+    
+50. Ryoji Ikeda - Forma, fecha de acceso: octubre 12, 2025, [https://forma.org.uk/projects/datamatics](https://forma.org.uk/projects/datamatics)
+    
+51. Ryoji Ikeda: data-verse - High Museum of Art, fecha de acceso: octubre 12, 2025, [https://high.org/ryoji-ikeda-data-verse-brochure/](https://high.org/ryoji-ikeda-data-verse-brochure/)
+    
+52. Ryoji Ikeda: data-verse - High Museum of Art, fecha de acceso: octubre 12, 2025, [https://high.org/exhibition/ryoji-ikeda/](https://high.org/exhibition/ryoji-ikeda/)
+    
+53. ryoji ikeda | news, fecha de acceso: octubre 12, 2025, [https://www.ryojiikeda.com/](https://www.ryojiikeda.com/)
+    
+54. Ryoji Ikeda | theartsection, fecha de acceso: octubre 12, 2025, [https://www.theartsection.com/ryoji-ikeda](https://www.theartsection.com/ryoji-ikeda)
+    
+55. Prof. Dr. phil. Hito Steyerl - UdK Berlin, fecha de acceso: octubre 12, 2025, [https://www.udk-berlin.de/en/person/hito-steyerl/](https://www.udk-berlin.de/en/person/hito-steyerl/)
+    
+56. THE WORK OF HITO STEYERL - Artists - Andrew Kreps Gallery, fecha de acceso: octubre 12, 2025, [http://www.andrewkreps.com/artists/the-work-of-hito-steyerl](http://www.andrewkreps.com/artists/the-work-of-hito-steyerl)
+    
+57. Hito Steyerl | MoMA, fecha de acceso: octubre 12, 2025, [https://www.moma.org/artists/43752-hito-steyerl](https://www.moma.org/artists/43752-hito-steyerl)
+    
+58. Hito Steyerl | Politics of Post-Representation - DIS MagazineDIS ..., fecha de acceso: octubre 12, 2025, [https://dismagazine.com/disillusioned-2/62143/hito-steyerl-politics-of-post-representation/](https://dismagazine.com/disillusioned-2/62143/hito-steyerl-politics-of-post-representation/)
+    
+59. Hito Steyerl. Technological refinement and moral stupidity - A*Desk, fecha de acceso: octubre 12, 2025, [https://a-desk.org/en/magazine/hito-steyerl-technological/](https://a-desk.org/en/magazine/hito-steyerl-technological/)
+    
+60. Hito Steyerl's 'Medium Hot': The Age of Slop - ArtReview, fecha de acceso: octubre 12, 2025, [https://artreview.com/hito-steyerls-medium-hot-the-age-of-slop-artificial-intelligence-terry-nguyen-opinion/](https://artreview.com/hito-steyerls-medium-hot-the-age-of-slop-artificial-intelligence-terry-nguyen-opinion/)
+    
+61. Hito Steyerl: “Who Prompted All This Shit?” | Spike Art Magazine, fecha de acceso: octubre 12, 2025, [https://spikeartmagazine.com/articles/interview-hito-steyerl](https://spikeartmagazine.com/articles/interview-hito-steyerl)
+    
+62. About - ALEXANDRA DAISY GINSBERG, fecha de acceso: octubre 12, 2025, [https://www.daisyginsberg.com/about](https://www.daisyginsberg.com/about)
+    
+63. Alexandra Daisy Ginsberg - Somerset House, fecha de acceso: octubre 12, 2025, [https://www.somersethouse.org.uk/a-z-community-directory/alexandra-daisy-ginsberg](https://www.somersethouse.org.uk/a-z-community-directory/alexandra-daisy-ginsberg)
+    
+64. Bioart - iGEM Community, fecha de acceso: octubre 12, 2025, [https://community.igem.org/bioart](https://community.igem.org/bioart)
+    
+65. Bioart - Wikipedia, fecha de acceso: octubre 12, 2025, [https://en.wikipedia.org/wiki/Bioart](https://en.wikipedia.org/wiki/Bioart)
+    
+66. Björk - Wikipedia, fecha de acceso: octubre 12, 2025, [https://en.wikipedia.org/wiki/Bj%C3%B6rk](https://en.wikipedia.org/wiki/Bj%C3%B6rk)
+    
+67. Exploring Björk's Impact and Legacy Through the Lens of Electronic Music | Sound of Life, fecha de acceso: octubre 12, 2025, [https://www.soundoflife.com/blogs/people/bjork-electronic-music](https://www.soundoflife.com/blogs/people/bjork-electronic-music)
+    
+68. Bjork: Innovation and Inspiration | by Orthentix - Medium, fecha de acceso: octubre 12, 2025, [https://medium.com/@orthentix/bjork-innovation-and-inspiration-925e700f89c0](https://medium.com/@orthentix/bjork-innovation-and-inspiration-925e700f89c0)
+    
+69. Björk Digital - Announcements - e-flux, fecha de acceso: octubre 12, 2025, [https://www.e-flux.com/announcements/138808/bj-rk-digital](https://www.e-flux.com/announcements/138808/bj-rk-digital)
+    
+70. Manfred Mohr - ZKM Karlsruhe, fecha de acceso: octubre 12, 2025, [https://zkm.de/en/manfred-mohr](https://zkm.de/en/manfred-mohr)
+    
+71. LIA - Overview | Gazelli Art House, fecha de acceso: octubre 12, 2025, [https://gazelliarthouse.com/artists/341-lia/overview/](https://gazelliarthouse.com/artists/341-lia/overview/)
+    
+72. Marius Watz - Artist Profile - Le Random, fecha de acceso: octubre 12, 2025, [https://www.lerandom.art/artists/marius-watz](https://www.lerandom.art/artists/marius-watz)
+    
+73. Aaron Koblin | Speaker - TED, fecha de acceso: octubre 12, 2025, [https://www.ted.com/speakers/aaron_koblin](https://www.ted.com/speakers/aaron_koblin)
+    
+74. Aaron Koblin - Edge.org, fecha de acceso: octubre 12, 2025, [https://www.edge.org/memberbio/aaron_koblin](https://www.edge.org/memberbio/aaron_koblin)
+    
+75. Nicolas Sassoon - Verse Works, fecha de acceso: octubre 12, 2025, [https://verse.works/nicolas-sassoon](https://verse.works/nicolas-sassoon)
+    
+76. FlatEarth.io - Tabor Robak - Upstream Gallery Amsterdam, fecha de acceso: octubre 12, 2025, [https://www.upstreamgallery.nl/exhibitions/164/flatearthio](https://www.upstreamgallery.nl/exhibitions/164/flatearthio)
+    
+77. About — Scott Snibbe - Interactive Art, fecha de acceso: octubre 12, 2025, [https://www.snibbe.com/about](https://www.snibbe.com/about)
+    
+78. People | SET Lab - UC Santa Cruz, fecha de acceso: octubre 12, 2025, [https://setlab.soe.ucsc.edu/people/](https://setlab.soe.ucsc.edu/people/)
+    
+79. Research | Katherine Isbister, fecha de acceso: octubre 12, 2025, [https://www.katherineinterface.com/styled/](https://www.katherineinterface.com/styled/)
+    
+80. Audra Kiewiet de Jonge visits the studio of photographic artist Fabiola Menchelli, fecha de acceso: octubre 12, 2025, [https://www.artartefact.com/journal/studio-visit-fabiola-menchelli](https://www.artartefact.com/journal/studio-visit-fabiola-menchelli)
+    
+81. Fabiola Menchelli - Biography - Black Box Projects, fecha de acceso: octubre 12, 2025, [https://blackboxprojects.art/artists/48-fabiola-menchelli/biography/](https://blackboxprojects.art/artists/48-fabiola-menchelli/biography/)
+    
+82. Marisa Olson - Wikipedia, fecha de acceso: octubre 12, 2025, [https://en.wikipedia.org/wiki/Marisa_Olson](https://en.wikipedia.org/wiki/Marisa_Olson)
+    
+83. About Nicolas Rapp, infographic freelance designer, fecha de acceso: octubre 12, 2025, [https://nicolasrapp.com/studio/about-me/](https://nicolasrapp.com/studio/about-me/)
+    
+84. Marta Delgado | The Centre for Conscious Design, fecha de acceso: octubre 12, 2025, [https://theccd.org/profile/marta-delgado/](https://theccd.org/profile/marta-delgado/)
+    
+85. Active Looking: Musa Mayer on Philip Guston | Foyer, fecha de acceso: octubre 12, 2025, [https://readfoyer.com/article/active-looking-musa-mayer-philip-guston](https://readfoyer.com/article/active-looking-musa-mayer-philip-guston)
+    
+86. Kevin Slavin, MFA, fecha de acceso: octubre 12, 2025, [https://www.aacnnursing.org/Portals/0/Images/microsite/Doctoral/Documents/Slavin-Speaker-Sheet.pdf](https://www.aacnnursing.org/Portals/0/Images/microsite/Doctoral/Documents/Slavin-Speaker-Sheet.pdf)
+    
+87. Kevin Slavin - Stansberry Conferences, fecha de acceso: octubre 12, 2025, [https://stansberryconferences.com/speaker/kevin-slavin/](https://stansberryconferences.com/speaker/kevin-slavin/)
+    
+88. Golden Ratio | Rafael Araujo Art, fecha de acceso: octubre 12, 2025, [https://www.rafael-araujo.com/](https://www.rafael-araujo.com/)
+    
+89. From chaos to order | Rafael Araujo | TEDxHangzhouSalon - YouTube, fecha de acceso: octubre 12, 2025, [https://www.youtube.com/watch?v=sxwCBTD-8f8](https://www.youtube.com/watch?v=sxwCBTD-8f8)
+    
+90. BIOGRAPHY | Mysite - Rafa Leal Music, fecha de acceso: octubre 12, 2025, [https://www.rafalealmusic.com/biography](https://www.rafalealmusic.com/biography)
+    
+91. Rafaël Rozendaal, fecha de acceso: octubre 12, 2025, [https://www.newrafael.com/](https://www.newrafael.com/)
+    
+92. Jurgen Gottschlag - Prints, Paintings & Posters - Art.com, fecha de acceso: octubre 12, 2025, [https://www.art.com/gallery/id--a80118/jurgen-gottschlag-posters.htm](https://www.art.com/gallery/id--a80118/jurgen-gottschlag-posters.htm)
+    
+93. What is Generative AI? - IBM, fecha de acceso: octubre 12, 2025, [https://www.ibm.com/think/topics/generative-ai](https://www.ibm.com/think/topics/generative-ai)
+    
+94. Generative artificial intelligence - Wikipedia, fecha de acceso: octubre 12, 2025, [https://en.wikipedia.org/wiki/Generative_artificial_intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
+    
+95. Metaverse For Virtual Galleries - Meegle, fecha de acceso: octubre 12, 2025, [https://www.meegle.com/en_us/topics/metaverse/metaverse-for-virtual-galleries](https://www.meegle.com/en_us/topics/metaverse/metaverse-for-virtual-galleries)
+    
+96. Artsteps | Make your own VR Exhibitions, fecha de acceso: octubre 12, 2025, [https://www.artsteps.com/](https://www.artsteps.com/)
+    
+97. Ars Electronica Futurelab, fecha de acceso: octubre 12, 2025, [https://ars.electronica.art/futurelab/en/](https://ars.electronica.art/futurelab/en/)
+    
+98. Edward A. Shanken: Introduction / Systems Thinking / Systems Art — WRO ART CENTER, fecha de acceso: octubre 12, 2025, [https://wrocenter.pl/en/edward-a-shanken-wprowadzenie-myslenie-systemowe-sztuka-systemowa/](https://wrocenter.pl/en/edward-a-shanken-wprowadzenie-myslenie-systemowe-sztuka-systemowa/)
+    
+99. Planetary Art & Technoromanticism - Stephan Barron, fecha de acceso: octubre 12, 2025, [https://www.technoromanticism.com/en/planetary-art/](https://www.technoromanticism.com/en/planetary-art/)
+    
+100. Planetary Consciousness. Ecosystems of Care | British Council Poland, fecha de acceso: octubre 12, 2025, [https://www.britishcouncil.pl/en/programmes/uk-poland-season-2025/events/planetary-consciousness](https://www.britishcouncil.pl/en/programmes/uk-poland-season-2025/events/planetary-consciousness)
+    
+
+**
+# Hacking a la Realidad: Del Ethos de la Máquina a una Conciencia Planetaria - Parte 02
 
 
 ## Introducción: El Hacker como Artista Transdisciplinario
