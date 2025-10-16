@@ -6,8 +6,8 @@ El trabajo de Ken Wilber ha sido un punto de partida maravilloso y me propongo a
 
 ### Prepersonales
 #### Inocente: El ser depende de otros completamente y esta sujeto a la voluntad y caracteristincas de los entornos y personas con las que inicia su existencia.
-#### Instintiva: El ser empieza a responder a ss pulsiones y a interactuar con sus entornos con base en estas
-#### Emocional: 
+#### Instintiva: El ser inicia un reconocimiento de sus sensanciones y pulsiones y la respuesta que los entornos tienen de estas
+#### Emocional: Aun se carece de un sentido del yo pero se empieza una consilidacion de la estructura mental que causan las distintas emociones, como son gestionadas y como se relacionan con el yo
 ### Personales
 #### Idetidad
 #### Rol
