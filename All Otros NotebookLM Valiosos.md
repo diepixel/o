@@ -1,2 +1,4 @@
 [Conpes 3975 - Politca nacional de transformacion e IA](https://notebooklm.google.com/notebook/b90ba9b5-f2f1-4fe0-8658-32d6f18c4ae7)
 [Epistemología y el Diseño del Ecosistema Humano Vivo con Rimworld](https://notebooklm.google.com/notebook/94cdf8ef-6bc6-4607-ad83-35f03618cb2a)
+[Comunicacion ECCI Desordenada](https://notebooklm.google.com/notebook/a3ba9fd6-58b1-4abb-98c0-cd7f4e5dfb83)
+[El fracaso de las apps de citas](https://notebooklm.google.com/notebook/44548897-31bb-4773-8272-0330160b0dfa)
