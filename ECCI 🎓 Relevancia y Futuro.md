@@ -1,4 +1,4 @@
-**  
+[NotebookLM](https://notebooklm.google.com/notebook/129ea244-f35d-4cfa-9c80-c47ea57422ac)  
 
 # La Universidad Reivindicada: Forjando las Capacidades Humanas para un Mundo en Transición
 
