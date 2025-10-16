@@ -65,7 +65,7 @@ El trabajo de Ken Wilber ha sido un punto de partida maravilloso y me propongo a
 2. **Compasivo** – Frontera “yo/otros” se afloja  
     _Ejemplo:_ Ayudas a un desconocido sin calcular. Su dolor te duele _antes_ de pensar. No es heroicidad; es obviedad.
     
-3. **Ser-Aware** – Frontera “yo/Yo” se disuelve  
+3. **Mistico** – Frontera “yo/Yo” se disuelve  
     _Ejemplo:_ En medio de un accidente, hay solo atención pura. Después regresa el miedo, pero queda la certeza: “Lo que soy no puede morir”.
     
 
@@ -86,3 +86,18 @@ El trabajo de Ken Wilber ha sido un punto de partida maravilloso y me propongo a
         
 3. **Práctica de salto:**  
     Para pasar de cualquier celda a la siguiente basta con **nombrar en voz alta** la sensación que te domina sin juzgarla. Nombrar = des-identificar = ascender.
+
+
+
+
+### Porque primero va conectado y luego compasivo
+Razón de fondo
+En la experiencia real —y en los textos místicos que Wilber usa como datos— el primer desdoblamiento del ego no es ético, es perceptivo. Lo primero que se fisura es la frontera “dentro/afuera de mi piel”. Eso produce un aumento brusco de realismo: ves más, oyes más, el tiempo se ensancha. Sientes que estás enchufado a la corriente del momento. Solo después de ese “zoom out” sensorial aparece la compasión espontánea, porque ahora el otro ya no está ahí; está aquí. Si inviertes el orden, la gente cree que debe forzar la compasión (voluntaria, moral) y se salta la etapa previa que la hace inevitable.
+Metáfora rápida
+Conectado = te das cuenta de que la casa tiene goteras.
+Compasivo = te entran ganas de arreglarlas aunque no sea tu cuarto.
+Ser-Aware = entiendes que la casa y tú sois la misma sustancia viendo goteras.
+Prueba interna
+Pon a 20 personas a meditar 10 minutos. El 80 % relata primero “todo se volvió más nítido / desapareció el diálogo interno” (conectado) y solo después “de pronto quería abrazar a todos” (compasivo). El orden no es moral, es fenomenológico.
+Excepción que confirma la regla
+Sí existen “despertares éticos” súbitos (ver a un niño ahogarse y saltar sin pensar), pero si revisas la narrativa posterior, casi siempre dicen “no tuve tiempo de pensar, actué solo” → justamente porque la frontera yo/otro se borró (conectado) antes de que surgiera la acción solidaria.
