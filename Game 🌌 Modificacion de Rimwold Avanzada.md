@@ -1,4 +1,4 @@
-**  
+[NotebookLM](https://notebooklm.google.com/notebook/59b0b8df-cefb-40d9-ab37-99522f0a954b)
 
 # Deconstruyendo el Rim: Un Plano Arquitectónico para el Modding Avanzado
 
