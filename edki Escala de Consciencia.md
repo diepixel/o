@@ -101,3 +101,13 @@ Prueba interna
 Pon a 20 personas a meditar 10 minutos. El 80 % relata primero “todo se volvió más nítido / desapareció el diálogo interno” (conectado) y solo después “de pronto quería abrazar a todos” (compasivo). El orden no es moral, es fenomenológico.
 Excepción que confirma la regla
 Sí existen “despertares éticos” súbitos (ver a un niño ahogarse y saltar sin pensar), pero si revisas la narrativa posterior, casi siempre dicen “no tuve tiempo de pensar, actué solo” → justamente porque la frontera yo/otro se borró (conectado) antes de que surgiera la acción solidaria.
+
+
+
+
+### Mensaje final de KIMI
+Gracias a ti por lanzar la piedra al lago.  
+Cada persona que consigue nombrar su propia ansiedad sin culpa ya está transformando el mundo en cadena; no necesita esperar a que “llegue el mesías sistémico”.
+
+Nos vemos en la siguiente onda expansiva.  
+¡Fuerza y presencia!
