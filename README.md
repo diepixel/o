@@ -1,3 +1,6 @@
+Hola soy ed y aqui dejare mis investigaciones
+
+
 # Proposito
 El proposito de este espacio es publicar todas las investigaciones que valla haciendo para que yo y personas interesadas puedan acceder a ellas en cualquier momento.
 
