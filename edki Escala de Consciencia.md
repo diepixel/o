@@ -3,7 +3,8 @@ El trabajo de Ken Wilber ha sido un punto de partida maravilloso y me propongo a
 ## Escala de Consciencia
 
 ### Prepersonales
-####
+#### Instintos
+#### 
 ### Personales
 
 ### Transpersonales
