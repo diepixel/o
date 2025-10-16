@@ -1,4 +1,6 @@
-[NotebookLM edki ♥️ Sanando la Sexualidad](https://notebooklm.google.com/notebook/f619be9b-537a-4415-8dd3-2905311f261d)
+[NotebookLM 01](https://notebooklm.google.com/notebook/f619be9b-537a-4415-8dd3-2905311f261d)
+[NotebookLM 02](https://notebooklm.google.com/notebook/a19a08c5-42ec-406f-a7a7-6771f554b6eb)
+
 
 # Del Malestar a la Misión: Transformando la Relación con la Sexualidad en una Herramienta de Conexión y Profundidad
 
