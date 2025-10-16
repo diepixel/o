@@ -10,7 +10,6 @@ En el corazón de este protocolo yace una paradoja fundamental: busca utilizar e
 
 Este informe deconstruirá el protocolo siguiendo las cinco "arquitecturas" propuestas por su creador. Cada táctica será analizada desde una perspectiva multidisciplinar, recurriendo a la teoría de medios, la neurociencia, la filosofía y la ética para desentrañar sus mecanismos y evaluar sus profundas implicaciones.
 
-  
 
 ## Parte I: La Arquitectura del Personaje - El Yo Alienado como Icono Parasocial
 
