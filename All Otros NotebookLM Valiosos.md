@@ -2,3 +2,4 @@
 [Epistemología y el Diseño del Ecosistema Humano Vivo con Rimworld](https://notebooklm.google.com/notebook/94cdf8ef-6bc6-4607-ad83-35f03618cb2a)
 [Comunicacion ECCI Desordenada](https://notebooklm.google.com/notebook/a3ba9fd6-58b1-4abb-98c0-cd7f4e5dfb83)
 [El fracaso de las apps de citas](https://notebooklm.google.com/notebook/44548897-31bb-4773-8272-0330160b0dfa)
+[Gen Nepal](https://notebooklm.google.com/notebook/a0b3cd6c-470e-4796-afa8-61a90327e339)
