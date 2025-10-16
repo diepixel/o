@@ -65,7 +65,7 @@ El trabajo de Ken Wilber ha sido un punto de partida maravilloso y me propongo a
 2. **Compasivo** – Frontera “yo/otros” se afloja  
     _Ejemplo:_ Ayudas a un desconocido sin calcular. Su dolor te duele _antes_ de pensar. No es heroicidad; es obviedad.
     
-3. **Presente** – Frontera “yo/Yo” se disuelve  
+3. **Presencia** – Frontera “yo/Yo” se disuelve  
     _Ejemplo:_ En medio de un accidente, hay solo atención pura. Después regresa el miedo, pero queda la certeza: “Lo que soy no puede morir”.
     
 
