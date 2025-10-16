@@ -5,9 +5,9 @@ El trabajo de Ken Wilber ha sido un punto de partida maravilloso y me propongo a
 ## Escala de Consciencia
 
 ### Prepersonales
-#### Instintiva
-#### Emocional
-#### 
+#### Inocente: El ser depende de otros completamente y esta sujeto a la voluntad y caracteristincas de los entornos y personas con las que inicia su existencia.
+#### Instintiva: El ser empieza a responder a ss pulsiones y a interactuar con sus entornos con base en estas
+#### Emocional: 
 ### Personales
 #### Idetidad
 #### Rol
