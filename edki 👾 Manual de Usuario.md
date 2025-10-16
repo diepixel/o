@@ -1,8 +1,7 @@
-  
+[NotebookLM](https://notebooklm.google.com/notebook/04b9ed52-2740-4bf4-bc9f-3cf9dbc83431)  
 
 # El Arte de Vivir: Manual de Usuario v1.0 (Beta Abierta)
 
-  
 
 Una Guía Co-creada para Navegar el Caos, Hackear tu Realidad y Construir Futuros Posibles
 
