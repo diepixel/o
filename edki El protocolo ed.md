@@ -2,12 +2,7 @@
 
 # El Protocolo Ed: Un Análisis Fundacional del Evangelismo Existencial en la Era Algorítmica
 
-  
-  
-
 ## Introducción: El Mandato del Reencantamiento en un Mundo Desencantado
-
-  
 
 El proyecto "Ed" se presenta como una intervención táctica y deliberada contra la condición sociohistórica que el sociólogo Max Weber denominó el "desencantamiento del mundo" (Entzauberung der Welt). Este proceso, caracterizado por una creciente racionalización, la primacía de la explicación científica y la secularización progresiva, conduce a una pérdida de lo sagrado y lo mágico en la vida cotidiana.1 La misión declarada del proyecto, un "reencantamiento del mundo", no debe interpretarse como un retorno nostálgico a una era premoderna, sino como un intento posmoderno de forjar significado dentro de las mismas estructuras que provocaron el desencantamiento original.
 
