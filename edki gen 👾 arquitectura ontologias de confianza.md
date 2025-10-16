@@ -1,3 +1,5 @@
+[NotebookLM](https://notebooklm.google.com/notebook/6f7fe6c1-c896-45ed-85a0-7c41433eeb44)
+
 # El Léxico de la Confianza: Una Guía Estratégica para la Comunicación Ética con las Generaciones Z y Alfa (Horizonte 2025-2030)
 
 ## I. Resumen Ejecutivo: Principios para un Diálogo Duradero
