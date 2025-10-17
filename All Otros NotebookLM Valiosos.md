@@ -13,3 +13,5 @@
 # Otros para estudiar
 ## Libros
 [RevelCode](https://notebooklm.google.com/notebook/bfc3352c-300c-40e2-8787-af39dc13e83d)
+[ProGit](https://notebooklm.google.com/notebook/c29119a8-0db5-4f58-99c2-e7323cb8d44c)
+
