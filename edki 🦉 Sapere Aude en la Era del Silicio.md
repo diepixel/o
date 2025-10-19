@@ -49,6 +49,53 @@ En el antiguo Egipto, esta introspección tomó la forma de la literatura de sab
 
 Esta ética individual alcanza su máxima expresión en las 42 Leyes de Maat. Maat era el concepto egipcio de verdad, equilibrio, orden y justicia, personificado como una diosa. Las 42 leyes, registradas en textos como el Libro de los Muertos, no eran un código legal impuesto por el estado, sino un código moral que el individuo debía internalizar. Se presentaban como "confesiones negativas" que el difunto recitaba ante los dioses para demostrar una vida virtuosa (por ejemplo, "No he causado dolor", "No he robado", "No he contaminado el agua").10 Lo revolucionario de este sistema es su dependencia de la responsabilidad interna. El destino de un individuo en el más allá no dependía del capricho de un dios, sino del peso acumulado de sus propias elecciones morales a lo largo de la vida. Fomentaba una sociedad autorregulada donde los individuos se esforzaban por vivir éticamente, no por miedo al castigo terrenal, sino por un deseo de armonía y por la responsabilidad personal ante el cosmos.10
 
+#### 42 Leyes de Maat
+| Nº | Faulkner 1972 (español neutro)             | J. P. Allen 2011 (mínima)       |
+| -- | ------------------------------------------ | ------------------------------- |
+| 1  | No he hecho mal                            | No he hecho daño                |
+| 2  | No he robado                               | No he tomado                    |
+| 3  | No he cometido rapina                      | No he despojado                 |
+| 4  | No he matado a nadie                       | No he matado                    |
+| 5  | No he reducido las medidas de grano        | No he angostado la medida       |
+| 6  | No he truncado los campos                  | No he falsado los campos        |
+| 7  | No he robado el pan de los dioses          | No he tomado lo de los dioses   |
+| 8  | No he mentido                              | No he dicho mentira             |
+| 9  | No me he apoderado de comida               | No he tomado alimento           |
+| 10 | No he pronunciado maldiciones              | No he maldecido                 |
+| 11 | No he fornicado                            | No he fornicado                 |
+| 12 | No he hecho llorar a nadie                 | No he hecho llorar              |
+| 13 | No he comido el corazón                    | No he comido el corazón         |
+| 14 | No he atacado a nadie                      | No he atacado                   |
+| 15 | No he sido violento                        | No he sido violento             |
+| 16 | No he robado tierra                        | No he tomado tierra             |
+| 17 | No he espiado                              | No he espiado                   |
+| 18 | No he calumniado                           | No he difamado                  |
+| 19 | No me he enfadado sin causa                | No he enfurecido sin razón      |
+| 20 | No he corrompido a la esposa de nadie      | No he corrompido                |
+| 21 | No he contaminado mi cuerpo                | No me he contaminado            |
+| 22 | No he asustado a nadie                     | No he atemorizado               |
+| 23 | No he transgredido                         | No he quebrantado               |
+| 24 | No he alterado el curso de la verdad       | No he torcido la verdad         |
+| 25 | No he blasfemado                           | No he blasfemado                |
+| 26 | No he sido arrogante                       | No he sido arrogante            |
+| 27 | No he provocado disputas                   | No he incitado disputas         |
+| 28 | No he actuado con ligereza                 | No he sido ligero               |
+| 29 | No he sido entrometido                     | No he invadido                  |
+| 30 | No he multiplicado mis palabras            | No he hablado demás             |
+| 31 | No he maldecido al dios                    | No he maldecito al dios         |
+| 32 | No he actuado con impiedad                 | No he sido impío                |
+| 33 | No he robado el pan de los espíritus       | No he tomado pan de los muertos |
+| 34 | No he robado el pan de un niño             | No he tomado pan del niño       |
+| 35 | No he expulsado a nadie de su agua         | No he expulsado del agua        |
+| 36 | No he pescado en aguas prohibidas          | No he pescado lo vedado         |
+| 37 | No he detenido el curso del agua           | No he detenido el agua          |
+| 38 | No he roto el dique                        | No he roto el dique             |
+| 39 | No he apagado la llama del dios            | No he apagado el fuego          |
+| 40 | No he maltratado al ganadero               | No he herido al ganadero        |
+| 41 | No he cerrado los canales                  | No he cerrado el canal          |
+| 42 | No he cerrado los dioses en sus santuarios | No he cerrado el santuario      |
+
+
 Mientras tanto, en Mesopotamia, aunque la ideología oficial, plasmada en las inscripciones reales, presentaba a los reyes como pastores divinamente ordenados cuyo poder era absoluto 13, la literatura de la época ofrece una "visión desde abajo" mucho más crítica y matizada. Las colecciones de proverbios sumerios y babilónicos están repletas de un sano escepticismo hacia la autoridad. Critican abiertamente la incompetencia y la corrupción en las altas esferas con un ingenio mordaz: "Hay numerosos ignorantes/idiotas en el palacio".13 Otros proverbios advierten sobre la naturaleza precaria del poder y la rapacidad de los señores: "No amontones la cebada... Cuando haya sido llevada a tu cebada y amontonada, tu señor se la comerá".13 La existencia y preservación de tales críticas demuestran una cultura donde el cuestionamiento de la autoridad no solo estaba presente, sino que era lo suficientemente común como para ser registrado como sabiduría popular.
 
 Esta corriente de pensamiento culmina en la Epopeya de Gilgamesh, quizás la primera obra de literatura existencial del mundo. El viaje del rey Gilgamesh comienza con él como un tirano, pero la muerte de su amigo Enkidu lo sume en una profunda crisis. Por primera vez, se ve obligado a confrontar su propia mortalidad, a cuestionar el valor de sus logros terrenales y, en última instancia, a desafiar el orden cósmico establecido por los dioses.18 Su búsqueda desesperada de la inmortalidad es un profundo acto de rebelión individual contra los límites percibidos de la existencia humana. Gilgamesh no acepta pasivamente el destino decretado por los dioses; se embarca en una odisea para encontrar sus propias respuestas, desafiando a monstruos, deidades y a la propia muerte.20
