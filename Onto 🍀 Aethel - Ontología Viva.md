@@ -2,7 +2,6 @@
 
 # Aethel - Un Plan Maestro para un Mundo Espejo Viviente
 
-
 ## Sección 1: El Motor Ontológico - Tejiendo una Realidad Viviente
 
 
