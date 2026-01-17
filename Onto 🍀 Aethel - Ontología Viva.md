@@ -2,12 +2,9 @@
 
 # Aethel - Un Plan Maestro para un Mundo Espejo Viviente
 
-  
-  
 
 ## Sección 1: El Motor Ontológico - Tejiendo una Realidad Viviente
 
-  
 
 La concepción de Aethel trasciende la definición convencional de un videojuego. No se trata de una simulación de la realidad, sino de una interfaz interactiva para una simulación de la realidad que opera en tiempo real. En el núcleo de esta empresa se encuentra un sistema de inteligencia artificial sin precedentes: la "Ontología Viva". Este motor no es simplemente una base de datos de fondo; es el producto central del proyecto, un gemelo digital dinámico y en constante evolución de la sociedad humana y sus innumerables sistemas interconectados. El juego, en sus dos modalidades, sirve como el medio más avanzado y atractivo para que los usuarios interactúen, comprendan y, en última instancia, influyan en este modelo vivo del mundo. Esta sección detallará la arquitectura de este sistema, desde sus fundamentos conceptuales hasta el pipeline técnico que le da vida.
 
